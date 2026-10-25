@@ -7,4 +7,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noharu36&theme=vue&utcOffset=9)
 
 ## Trophy 🏆
-![trophy](https://gh-trophy.cdnsoft.net/?username=noharu36)
+![trophy](https://github-profile-repo.vercel.app/?username=noharu36)
